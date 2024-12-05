@@ -1,6 +1,6 @@
 # Archivo principal para instanciar objetos de las clases Coches y Colibri
-from activitat4.Coches import Coches
-from activitat4.Colibri import Colibri
+from Coches import Coches
+from Colibri import Colibri
 
 # Instancia objetos Coches 
 coche1 = Coches("Tesla", "Model S", "Rojo", "Eléctrico", 4)
